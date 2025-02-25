@@ -6,6 +6,8 @@ The current page is still under construction.
 
 Here is my [blog](https://blog.imyangty.com/).
 
+You can contact me via i@imyangty.com, yangty1031@stu.pku.edu.cn or yangty1031@gmail.com.
+
 <!--
 **Cgfyufsygsm/Cgfyufsygsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
