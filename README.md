@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋,
+
+I‘m Taoyu Yang, a sophomore of Peking University. I major in computer science.
+
+The current page is still under construction.
 
 <!--
 **Cgfyufsygsm/Cgfyufsygsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
