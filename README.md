@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I‘m Taoyu Yang, a sophomore of Peking University. I major in computer science.
+I'm Taoyu Yang, a junior undegraduate student of Peking University. I major in computer science.
 
-The current page is still under construction.
+I'm currently interested in computer vision, computational photography, and video generation.
 
 Here is my [blog](https://blog.imyangty.com/).
 
