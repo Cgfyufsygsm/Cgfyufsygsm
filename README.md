@@ -4,7 +4,7 @@ I'm Taoyu Yang, a junior undegraduate student of Peking University. I major in c
 
 I'm currently interested in computer vision, computational photography, and video generation.
 
-Here is my [blog](https://blog.imyangty.com/).
+Here is my [blog](https://blog.imyangty.com/) and [homepage](https://imyangty.com).
 
 You can contact me via i@imyangty.com, yangty1031@stu.pku.edu.cn or yangty1031@gmail.com.
 
