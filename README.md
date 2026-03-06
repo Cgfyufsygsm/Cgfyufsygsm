@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Taoyu Yang, a junior undegraduate student of Peking University. I major in computer science.
+I'm Taoyu Yang, a junior undergraduate student at Peking University, majoring in computer science. I am currently a research intern at [PKU-CameraLab](https://camera.pku.edu.cn/team), advised by Prof. Boxin Shi.
 
-I'm currently interested in computer vision, computational photography, and video generation.
+My current research interests include computer vision, computational imaging, and video generation.
 
-Here is my [blog](https://blog.imyangty.com/) and [homepage](https://imyangty.com).
+Here is my [blog](https://blog.imyangty.com/) and [academic homepage](https://imyangty.com) (still under construction).
 
-You can contact me via i@imyangty.com, yangty1031@stu.pku.edu.cn or yangty1031@gmail.com.
+You can contact me via i@imyangty.com, yangty1031@stu.pku.edu.cn or yangty1031@gmail.com. My WeChat ID is `imyangty`. Please feel free to reach out.
 
 <!--
 **Cgfyufsygsm/Cgfyufsygsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
