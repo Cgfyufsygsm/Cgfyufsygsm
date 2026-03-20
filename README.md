@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Taoyu Yang (杨涛瑜), a junior undergraduate student at Peking University, majoring in computer science. I am currently a research intern at [PKU-CameraLab](https://camera.pku.edu.cn/team), advised by Prof. Boxin Shi.
+I'm Taoyu Yang (杨涛瑜), a junior undergraduate student at Peking University, majoring in computer science. 
 
-My current research interests include computer vision, computational photography, and video generation. I am also enthusiastic about LLMs and agent systems.
+My current research interests include computer vision, computational photography, and video generation. I am also enthusiastic about RL, LLMs and agent systems.
 
 Here is my [blog](https://blog.imyangty.com/) and [academic homepage](https://imyangty.com) (still under construction).
 
